@@ -1,0 +1,22 @@
+*{
+    margin:0;
+}
+header {
+    border-radius: 5%;
+    border: 5px;
+    width: 100vw;
+    height: 15vh;
+    background-color: brown;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav {
+    width: 100vw;
+    height: 15vh;
+    background-color: brown;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
