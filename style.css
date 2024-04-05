@@ -40,6 +40,7 @@ main {
   border-radius: 10px;
   margin: 5px;
   border: 10px;
+  padding-top: 10px;
   border-color: white;
   width: 98vw;
   height: 70vh;
@@ -95,4 +96,17 @@ aside {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+footer {
+  border-radius: 10px;
+  margin: 5px;
+  border: 10px;
+  border-color: white;
+  width: 98vw;
+  height: 10vh;
+  background-color: pink;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
